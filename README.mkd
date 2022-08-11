@@ -1,0 +1,13 @@
+# Treinamento JavaScript
+
+
+
+
+
+### Atividade simples referente ao MiniCamp XPEducação 🎓📖
+
+
+
+- Funções 🧩
+- Estrutura condicionais IF-ELSE 🧱
+-  JavaScript ⚙
